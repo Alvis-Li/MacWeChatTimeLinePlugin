@@ -4,3 +4,5 @@
 记得执行pod
 
 	pod install
+	
+PS:并没有实现UI，只是成功获取数据	
